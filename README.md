@@ -1,7 +1,7 @@
 <h1 align="center">Olá 🐻, Eu sou o Gabriel</h1>
-<h3 align="center">Tornando-me um engenheiro de software</h3>
+<h3 align="center">Tornando-me um engenheiro de software, analista de sistema, gestor de  </h3>
 
-- 📖 Estudando/Aprendendo: **Python, phpMyAdmin, Java, Flutter, Dart, C++, html e css**
+- 📖 Estudando/Aprendendo: **Python, phpMyAdmin, Java, Flutter, Dart, html, css e javascript**
 
 - 💬 Me pergunte sobre: **Qualquer dúvida**
 
