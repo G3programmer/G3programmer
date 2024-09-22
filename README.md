@@ -1,11 +1,11 @@
-<div float=left>
+<div align=left>
 <h1> ᚺᛖᛚᛚᛟ ᚹᛟᚱᛚᛞ </h1>
 <p> Hello world </p>
-</div>
-<div float=right>
+
+<div align=right>
   <img height="150" src="_e6f382ac-d863-4ea9-9ac5-d7b089abd505.jpeg"/>
 </div>
-
+</div>
 <h1 align="center">Olá 🐻, Eu sou o Gabriel</h1>
 <h3 align="center">Tornando-me um engenheiro de software, analista de sistema, gestor de banco de dados </h3>
 
