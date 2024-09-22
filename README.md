@@ -1,10 +1,9 @@
 <div float=left>
-<h1 color=blue> ᚺᛖᛚᛚᛟ ᚹᛟᚱᛚᛞ </h1>
-<p> (Hello world) </p>
+<p color=blue> 𝕳𝖊𝖑𝖑𝖔 𝖂𝖔𝖗𝖑𝖉, 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝕲𝖎𝖙𝖍𝖚𝖇! </p>
 </div>
 <div float=right>
   <img height="160" src="Ice_Mage.gif"/>
-  <img height="100" src="dwarf.gif"/>
+  <img height="40" src="dwarf.gif"/>
   
 </div>
 
