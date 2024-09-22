@@ -4,7 +4,7 @@
 </div>
 <div float=right>
   <img height="160" src="Ice_Mage.gif"/>
-  <img height="40" src="dwarf.gif"/>
+  <img height="100" src="dwarf.gif"/>
   
 </div>
 
