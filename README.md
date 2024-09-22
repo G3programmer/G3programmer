@@ -1,13 +1,9 @@
-<div float=left>
-<p {c:red}> 𝕳𝖊𝖑𝖑𝖔 𝖂𝖔𝖗𝖑𝖉, 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝕲𝖎𝖙𝖍𝖚𝖇! </p>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquarda+Bastarda+9&letterSpacing=&duration=2000&pause=6000&color=15A4C6&width=435&lines=Hello+World+And+My+Dear+Friends;Welcome+To+My+Github!;I'm+Gabriel%2C+but+you+can+call+me+G3+or+G3Programmer)](https://git.io/typing-svg)
 <div float=right>
   <img height="160" src="Ice_Mage.gif"/>
-  <img height="98" src="dwarf.gif"/>
-  
+  <img height="40" src="dwarf.gif"/>  
 </div>
 
-<h1 align="center">Olá 🐻, Eu sou o Gabriel</h1>
 <h3 align="center">Tornando-me um engenheiro de software, analista de sistema, gestor de banco de dados </h3>
 
 📖 Estudando/Aprendendo: Python, phpMyAdmin, Java, Flutter, Dart, html, css e javascript<br>
