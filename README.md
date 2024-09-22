@@ -1,9 +1,9 @@
 <div float=left>
-{c:blue}<p>𝕳𝖊𝖑𝖑𝖔 𝖂𝖔𝖗𝖑𝖉, 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝕲𝖎𝖙𝖍𝖚𝖇 </p>{/c}
+<p {c:red}> 𝕳𝖊𝖑𝖑𝖔 𝖂𝖔𝖗𝖑𝖉, 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝕲𝖎𝖙𝖍𝖚𝖇! </p>
 </div>
 <div float=right>
   <img height="160" src="Ice_Mage.gif"/>
-  <img height="98" src="dwarf.gif"/>
+  <img height="40" src="dwarf.gif"/>
   
 </div>
 
