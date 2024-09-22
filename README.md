@@ -1,9 +1,11 @@
 <div float=left>
-<h1> ᚺᛖᛚᛚᛟ ᚹᛟᚱᛚᛞ </h1>
-<p> Hello world </p>
+<h1 color=blue> ᚺᛖᛚᛚᛟ ᚹᛟᚱᛚᛞ </h1>
+<p> (Hello world) </p>
 </div>
 <div float=right>
-  <img height="150" src="Ice_Mage.gif"/>
+  <img height="160" src="Ice_Mage.gif"/>
+  <img height="150" src="dwarf.gif"/>
+  
 </div>
 
 <h1 align="center">Olá 🐻, Eu sou o Gabriel</h1>
