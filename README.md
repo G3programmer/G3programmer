@@ -2,6 +2,12 @@
 <div float=right>
   <img height="160" src="Ice_Mage.gif"/>
 </div>
+<div float=right>
+  <img height="160" src="flying.gif"/>
+</div>
+<div float=right>
+  <img height="160" src="fireball.gif"/>
+</div>
 
 <h3 align="center">Tornando-me um engenheiro de software, analista de sistema, gestor de banco de dados </h3>
 
