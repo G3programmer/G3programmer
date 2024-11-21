@@ -2,10 +2,10 @@
 <div float=right>
   <img height="160" src="Ice_Mage.gif"/>
 </div>
-<div float=right>
+<div>
   <img height="160" src="flying.gif"/>
 </div>
-<div float=right>
+<div>
   <img height="160" src="fireball.gif"/>
 </div>
 
