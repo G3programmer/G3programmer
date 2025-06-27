@@ -6,8 +6,8 @@
 <div>
 <img src="Ice_Mage.gif" alt="Ice Mage" height="170"/>      
 <img src="flying.gif" alt="Flying" height="160"/>
+<img src="purple-wizard.gif" alt="Purple Wizard" height="200"/>
 <img src="fireball.gif" alt="Fire Mage" height="160"/>
-<img src="purple-wizard.gif" alt="Purple Wizard" height="160"/>
 </div>
 <h3 style="text-align: center;">
   Tornando-me um engenheiro de software, analista de sistema, gestor de banco de dados
