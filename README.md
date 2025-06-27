@@ -1,9 +1,9 @@
-<div style="float: right;">
+<p style="float: right;">
   <img height="170" src="Ice_Mage.gif" alt="Ice Mage"/>  
-</div>
-<div style="float: left;">
+</p>
+<p style="float: left;">
   <img height="160" src="fireball.gif" alt="Fireball"/>
-</div>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bilbo&size=35&pause=1000&color=05B9F7&width=435&lines=Hello+my+dear+friends;I'm+Gabriel%2C+a+full-stack+dev;also+known+as+G3+or+Morozini;If+you+need+a+project%2C+feel+free+and+ask+me)](https://git.io/typing-svg)
 
