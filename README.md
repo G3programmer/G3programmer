@@ -1,27 +1,30 @@
-<div style="width: 50%; float: left;">
-  <img src="Ice_Mage.gif" alt="Ice Mage" height="170"/>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="Ice_Mage.gif" alt="Ice Mage" height="170"/>
+    </td>
+    <td align="right" width="50%">
+      <img src="fireball.gif" alt="Fire Mage" height="160"/>
+    </td>
+  </tr>
+</table>
 
-<div style="width: 50%; float: right; text-align: right;">
-  <img src="fireball.gif" alt="Fire Mage" height="160"/>
-</div>
-
-<div style="clear: both;"></div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bilbo&size=35&pause=1000&color=05B9F7&width=435&lines=Hello+my+dear+friends;I'm+Gabriel%2C+a+full-stack+dev;also+known+as+G3+or+Morozini;If+you+need+a+project%2C+feel+free+and+ask+me)](https://git.io/typing-svg)
 
 <img src="dev-fullstack.png" alt="Dev Full-stack" height="500"/>
 
 
-<div style="width: 50%; float: left;">
-  <img src="flying.gif" alt="Flying" height="160"/>
-</div>
-
-<div style="width: 50%; float: right; text-align: right;">
-  <img src="purple-wizard.gif" alt="Purple Wizard" height="160"/>
-</div>
-
-<div style="clear: both;"></div>
+<table border="0" width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="flying.gif" alt="Flying" height="160"/>
+    </td>
+    <td align="right" width="50%">
+      <img src="purple-wizard.gif" alt="Purple Wizard" height="160"/>
+    </td>
+  </tr>
+</table>
 
 <h3 style="text-align: center;">
   Tornando-me um engenheiro de software, analista de sistema, gestor de banco de dados
