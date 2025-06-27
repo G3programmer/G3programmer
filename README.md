@@ -1,9 +1,12 @@
+<div float=right>
+<img height="170" src="Ice_Mage.gif"/>  
+<img height="160" src="fireball.gif"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bilbo&size=35&pause=1000&color=05B9F7&width=435&lines=Hello+my+dear+friends;I'm+Gabriel%2C+a+full-stack+dev;also+known+as+G3+or+Morozini;If+you+need+a+project%2C+feel+free+and+ask+me)](https://git.io/typing-svg)
 <img src="background.png"/>
-<div float=right>
-  <img height="170" src="Ice_Mage.gif"/>
+<div float=left>
   <img height="160" src="flying.gif"/>
-  <img height="160" src="fireball.gif"/>
 </div>
 
 <h3 align="center">Tornando-me um engenheiro de software, analista de sistema, gestor de banco de dados </h3>
