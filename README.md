@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bilbo&size=35&pause=1000&color=05B9F7&width=435&lines=Hello+my+dear+friends;I'm+Gabriel%2C+a+full-stack+dev;also+known+as+G3+or+Morozini;If+you+need+a+project%2C+feel+free+and+ask+me)](https://git.io/typing-svg)
 
-      <img src="dev-fullstack.png" alt="Dev Full-stack" height="500"/>
+<img src="dev-fullstack.png" alt="Dev Full-stack" height="500"/>
 
 
 <table width="100%" style="border: none; border-collapse: collapse;">
