@@ -1,5 +1,7 @@
 <div style="float: right;">
   <img height="170" src="Ice_Mage.gif" alt="Ice Mage"/>  
+</div>
+<div style="float: left;>
   <img height="160" src="fireball.gif" alt="Fireball"/>
 </div>
 
