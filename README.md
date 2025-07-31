@@ -6,6 +6,9 @@
 
 ###
 
+<h1 align="left">Redes Sociais 🌐</h1>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-morozini-2aa28b251/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -17,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hello World! 👋🌍</h1>
+<h1 align="left">Hello World! 👋🌍</h1>
 
 ###
 
@@ -31,7 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
