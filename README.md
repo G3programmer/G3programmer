@@ -19,7 +19,7 @@
 
 ###
 
-[Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=300&size=19&duration=3000&pause=3000&width=435&lines=Hello+World!;I'm+Gabriel+Morozini.;But+you+can+call+me+G3+or+Morozini...;Contact+me+if+you+want!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=300&size=19&duration=3000&pause=3000&width=435&lines=Hello+World!;I'm+Gabriel+Morozini.;But+you+can+call+me+G3+or+Morozini...;Contact+me+if+you+want!)
 
 ###
 
