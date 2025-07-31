@@ -62,4 +62,4 @@
 </div>
 
 ###
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=039dfc&textBg=false&reversal=false&section=footer">
+  <img height="260" width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=039dfc&textBg=false&reversal=false&section=footer">
