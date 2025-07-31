@@ -6,20 +6,6 @@
 
 ###
 
-<h1 align="left">Redes Sociais 🌐</h1>
-
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-morozini-2aa28b251/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#search/gabriel.morozini.ti%40gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">Hello World! 👋🌍</h1>
 
 ###
@@ -65,4 +51,17 @@
 </div>
 
 ###
+
+<h1 align="left">Redes Sociais 🌐</h1>
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-morozini-2aa28b251/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?pli=1#search/gabriel.morozini.ti%40gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+
   <img height="260" width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=039dfc&textBg=false&reversal=false&section=footer">
