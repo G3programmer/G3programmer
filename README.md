@@ -53,6 +53,7 @@
 ###
 
 <h1 align="left">Redes Sociais 🌐</h1>
+
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-morozini-2aa28b251/" target="_blank">
