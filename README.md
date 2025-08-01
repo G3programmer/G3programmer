@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm doing some personal projects to strengthen my experience, but I'm also looking for job opportunities.<br><br>- 📚 I'm currently studying C++, Python and React and I'm doing some projects and challenges in my day to day life.<br><br>- 📞 Contact me and let's do some project together! ;)</p>
+<p align="left">- 🔭 I'm doing some personal projects to strengthen my experience, but I'm also looking for job opportunities.<br><br>- 📚 I'm currently studying C++, Python and React and I'm doing some projects and challenges in my day to day life.<br><br>- 📞 Contact me and let's do some project together! ;)<br><br>- 📩 gabriel.morozini.ti@gmail.com<br><br>- 📩 g3hunterbugs@gmail.com </p>
 
 ###
 
